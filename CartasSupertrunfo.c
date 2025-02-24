@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+    printf("\nCartas Super Trunfo\n");
+    
     // Definição das informações da primeira carta
     char estado1 = 'B';
     char codigo1[] = "B01";
