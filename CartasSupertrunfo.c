@@ -1,5 +1,6 @@
 #include <stdio.h>
-//Definições das informações da primeira carta
+
+
 int main(){
     int populacao1 = 210000000;
     char estado1 [] = 'A';
