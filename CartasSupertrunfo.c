@@ -29,13 +29,19 @@ int main(){
     printf("Área: %.2f Km²\n", area1);
     printf("PIB: %.2f bilhões de reais\n", pib1);
     printf("Números de Pontos Tursíticos:%d\n", pontos1);
-    
-  
 
+ //Exibições das informações da segunda carta
 
+    printf("\nCarta 2:\n");
+    printf("Estado: %c\n", estado2);
+    printf("Código: %s\n", codigo2);
+    printf("Cidade: %s\n", nome2);
+    printf("População: %d\n", populacao2);
+    printf("Área: %.2f Km²\n", area2);
+    printf("PIB: %.2f bilhões de reais\n", pib2);
+    printf("Números de Pontos Tursíticos:%d\n", pontos2);
 
-
-
+    return 0;
 
 
 }
