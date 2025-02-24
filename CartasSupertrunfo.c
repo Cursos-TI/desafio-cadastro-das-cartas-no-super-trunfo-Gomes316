@@ -9,7 +9,8 @@ int main(){
     int pontos1 = 20;
     char codigo1  = "A01";
 
-    //Difinições das informações da segunda carta
+ //Difinições das informações da segunda carta
+
     int populacao2 = 900.000;
     char estado2 = 'B';
     char nome2 [] = "Maceió";
@@ -17,6 +18,21 @@ int main(){
     float pib2 = 27.4;
     int pontos2 = 10;
     char codigo2 [] = "B01";
+
+ //Exibições das informações da primeira carta
+
+    printf("\nCarta 1:\n");
+    printf("Estado: %c\n", estado1);
+    printf("Código: %s\n", codigo1);
+    printf("Cidade: %s\n", nome1);
+    printf("População: %d\n", populacao1);
+    printf("Área: %.2f Km²\n", area1);
+    printf("PIB: %.2f bilhões de reais\n", pib1);
+    printf("Números de Pontos Tursíticos:%d\n", pontos1);
+    
+  
+
+
 
 
 
