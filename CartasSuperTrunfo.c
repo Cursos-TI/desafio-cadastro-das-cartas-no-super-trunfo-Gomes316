@@ -2,22 +2,22 @@
 
 int main() {
     // Definição das informações da primeira carta
-    char estado1 = 'A';
-    char codigo1[] = "A01";
-    char nome1[] = "São Paulo";
-    int populacao1 = 12325000;
-    float area1 = 1521.11;
-    float pib1 = 699.28;
-    int pontos1 = 50;
+    char estado1 = 'B';
+    char codigo1[] = "B01";
+    char nome1[] = "Salvador";
+    int populacao1 = 2886698;
+    float area1 = 693.80;
+    float pib1 = 63.53;
+    int pontos1 = 40;
 
     // Definição das informações da segunda carta
-    char estado2 = 'B';
-    char codigo2[] = "B02";
-    char nome2[] = "Rio de Janeiro";
-    int populacao2 = 6748000;
-    float area2 = 1200.25;
-    float pib2 = 300.50;
-    int pontos2 = 30;
+    char estado2 = 'A';
+    char codigo2[] = "A02";
+    char nome2[] = "Maceió";
+    int populacao2 = 1029129;
+    float area2 = 509.32;
+    float pib2 = 24.30;
+    int pontos2 = 25;
     
     // Exibição das informações da primeira carta
     printf("\nCarta 1:\n");
