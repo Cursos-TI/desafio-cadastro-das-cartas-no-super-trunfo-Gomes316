@@ -9,7 +9,15 @@ int main(){
     int pontos1 = 20;
     char codigo1  = "A01";
 
-//Difinições das informações da segunda carta
+    //Difinições das informações da segunda carta
+    int populacao2 = 900.000;
+    char estado2 = 'B';
+    char nome2 [] = "Maceió";
+    float area2 = 509.320;
+    float pib2 = 27.4;
+    int pontos2 = 10;
+    char codigo2 [] = "B01";
+
 
 
 
