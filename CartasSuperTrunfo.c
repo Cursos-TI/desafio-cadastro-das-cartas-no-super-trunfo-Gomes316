@@ -2,8 +2,8 @@
 
 int main() {
     // Definição das informações da primeira carta
-    char estado1 = 'B';
-    char codigo1[] = "B01";
+    char estado1 = 'A';
+    char codigo1[] = "A01";
     char nome1[] = "Salvador";
     int populacao1 = 2886698;
     float area1 = 693.80;
@@ -11,8 +11,8 @@ int main() {
     int pontos1 = 40;
 
     // Definição das informações da segunda carta
-    char estado2 = 'A';
-    char codigo2[] = "A02";
+    char estado2 = 'B';
+    char codigo2[] = "B02";
     char nome2[] = "Maceió";
     int populacao2 = 1029129;
     float area2 = 509.32;
